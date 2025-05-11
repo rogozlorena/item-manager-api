@@ -1,6 +1,6 @@
 # Item Processing API
 
-This is a Spring Boot RESTful API developed during the Siemens internship program.  
+This is a Spring Boot RESTful API.  
 It manages a collection of items, allowing basic CRUD operations, validation (including email), and asynchronous processing of item data.
 
 ## ✅ Features
